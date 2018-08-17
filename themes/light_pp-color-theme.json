@@ -1,0 +1,21 @@
+{
+	"name": "Light++",
+	"type": "light",
+	"include": "./light_plus.json",
+	"colors": {
+    "titleBar.activeBackground": "#f3f3f3",
+    "editorGroupHeader.tabsBackground": "#f3f3f3",
+    "tab.inactiveBackground": "#f3f3f3",
+    "activityBar.background": "#f3f3f3",
+    "editor.background": "#fafafa",
+    "activityBar.foreground": "#000000",
+    "sideBar.background": "#fafafa",
+    "panel.background": "#fafafa",
+    "sideBar.border": "#f3f3f3",
+    "panel.border": "#f3f3f3",
+    "statusBar.background": "#f3f3f3",
+    "statusBar.foreground": "#000000",
+    "statusBar.debuggingForeground": "#fafafa",
+    "statusBar.noFolderForeground": "#fafafa"
+	},
+}

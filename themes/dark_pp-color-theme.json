@@ -1,0 +1,16 @@
+{
+	"name": "Dark++",
+	"type": "dark",
+	"include": "./dark_plus.json",
+	"colors": {
+		"titleBar.activeBackground": "#252525",
+		"editorGroupHeader.tabsBackground": "#252525",
+		"tab.inactiveBackground": "#252525",
+		"activityBar.background": "#252525",
+		"panel.background": "#1e1e1e",
+		"sideBar.background": "#1e1e1e",
+		"sideBar.border": "#252525",
+		"panel.border": "#252525",
+		"statusBar.background": "#252525"
+	},
+}

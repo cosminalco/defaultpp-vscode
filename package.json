@@ -1,0 +1,45 @@
+{
+    "name": "defaultpp",
+    "displayName": "Default++",
+    "description": "Creates the theme Light++ and the theme Dark++ for VSCode. A simple update for the default Light+ and Dark+ themes. Imports all their colors but updates the interface.",
+    "version": "0.0.1",
+    "publisher": "cosminalco",
+    "bugs": {
+        "url": "https://github.com/cosminalco/defaultpp-vascode/issues"
+      },
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/cosminalco/defaultpp-vascode.git"
+      },
+      "homepage": "https://github.com/cosminalco/defaultpp-vascode/blob/master/README.md",
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+    "icon": "images/icon.png",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+      "theme",
+      "light",
+      "light++",
+      "dark",
+      "dark++",
+      "default",
+      "default++"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark++",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark_pp-color-theme.json"
+            },
+            {
+                "label": "Light++",
+                "uiTheme": "vs",
+                "path": "./themes/light_pp-color-theme.json"
+            }
+        ]
+    }
+}
