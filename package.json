@@ -2,16 +2,16 @@
     "name": "defaultpp",
     "displayName": "Default++",
     "description": "A simple update for the default Light+ and Dark+ themes. Imports all their colors but updates the interface.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "cosminalco",
     "bugs": {
         "url": "https://github.com/cosminalco/defaultpp-vascode/issues"
-      },
-      "repository": {
+    },
+    "repository": {
         "type": "git",
         "url": "https://github.com/cosminalco/defaultpp-vascode.git"
-      },
-      "homepage": "https://github.com/cosminalco/defaultpp-vascode/blob/master/README.md",
+    },
+    "homepage": "https://github.com/cosminalco/defaultpp-vascode/blob/master/README.md",
     "engines": {
         "vscode": "^1.26.0"
     },
@@ -20,9 +20,9 @@
         "Themes"
     ],
     "keywords": [
-      "theme",
-      "light",
-      "dark"
+        "theme",
+        "light",
+        "dark"
     ],
     "contributes": {
         "themes": [
