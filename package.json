@@ -22,11 +22,7 @@
     "keywords": [
       "theme",
       "light",
-      "light++",
-      "dark",
-      "dark++",
-      "default",
-      "default++"
+      "dark"
     ],
     "contributes": {
         "themes": [
