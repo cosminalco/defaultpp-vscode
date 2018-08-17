@@ -1,7 +1,7 @@
 {
     "name": "defaultpp",
     "displayName": "Default++",
-    "description": "Creates the theme Light++ and the theme Dark++ for VSCode. A simple update for the default Light+ and Dark+ themes. Imports all their colors but updates the interface.",
+    "description": "A simple update for the default Light+ and Dark+ themes. Imports all their colors but updates the interface.",
     "version": "0.0.1",
     "publisher": "cosminalco",
     "bugs": {
