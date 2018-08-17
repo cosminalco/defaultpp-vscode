@@ -2,7 +2,7 @@
     "name": "defaultpp",
     "displayName": "Default++",
     "description": "A simple update for the Light+ (default light) theme and Dark+ (default dark) theme.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "cosminalco",
     "bugs": {
         "url": "https://github.com/cosminalco/defaultpp-vascode/issues"
