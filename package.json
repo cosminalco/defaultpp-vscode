@@ -1,7 +1,7 @@
 {
     "name": "defaultpp",
     "displayName": "Default++",
-    "description": "A simple update for the Light+ (default light) theme and Dark+ (default dark) theme.",
+    "description": "Imports all the colors from the Light+ theme and the Dark+ theme then only updates the colors of the interface for a smooth transition from the colors of the editor.",
     "version": "0.0.3",
     "publisher": "cosminalco",
     "bugs": {

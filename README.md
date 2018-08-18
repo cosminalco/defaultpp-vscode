@@ -1,5 +1,5 @@
 ## Default++
-A simple update for the default Light+ and Dark+ themes. Imports all their colors but updates the interface using only two colors. One color for Title Bar, Activity Bar and Statusbar and the other color for Editor, Sidebar and Panel.
+Imports all the colors from the Light+ theme and the Dark+ theme then only updates the colors of the interface for a smooth transition from the colors of the editor.
 
 ### Light++
 
