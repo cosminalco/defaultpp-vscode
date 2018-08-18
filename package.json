@@ -5,13 +5,13 @@
     "version": "0.0.5",
     "publisher": "cosminalco",
     "bugs": {
-        "url": "https://github.com/cosminalco/defaultpp-vascode/issues"
+        "url": "https://github.com/cosminalco/defaultpp-vscode/issues"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/cosminalco/defaultpp-vascode.git"
+        "url": "https://github.com/cosminalco/defaultpp-vscode.git"
     },
-    "homepage": "https://github.com/cosminalco/defaultpp-vascode/blob/master/README.md",
+    "homepage": "https://github.com/cosminalco/defaultpp-vscode/blob/master/README.md",
     "engines": {
         "vscode": "^1.26.0"
     },
