@@ -2,7 +2,7 @@
     "name": "defaultpp",
     "displayName": "Default++",
     "description": "Imports all the colors from the Light+ theme and the Dark+ theme then only updates the colors of the interface for a smooth transition from the colors of the editor.",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "cosminalco",
     "bugs": {
         "url": "https://github.com/cosminalco/defaultpp-vascode/issues"
